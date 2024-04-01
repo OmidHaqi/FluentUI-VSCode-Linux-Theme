@@ -17,5 +17,8 @@
 # Font 
 **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)**
 
+# Windows 
+**[Fluent UI for VSCode](https://marketplace.visualstudio.com/items?itemName=leandro-rodrigues.fluent-ui-vscode)**
+
 # Product icon 
 **[Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)**
